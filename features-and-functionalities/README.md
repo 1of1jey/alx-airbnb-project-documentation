@@ -40,3 +40,24 @@ POST /api/auth/forgot-password
 POST /api/auth/reset-password
 
 Database Tables: User, Session (optional)
+
+1.3 Profile Management
+Functionality: Users can view and update their profile information
+Features:
+
+View user profile
+Update personal information (name, email, phone)
+Upload/update profile photo
+Update preferences and settings
+View booking history
+View property listings (for hosts)
+Account deletion
+
+API Endpoints:
+
+GET /api/users/:id
+PUT /api/users/:id
+PATCH /api/users/:id/photo
+DELETE /api/users/:id
+
+Database Tables: User
