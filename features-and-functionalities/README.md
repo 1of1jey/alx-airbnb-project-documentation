@@ -18,3 +18,25 @@ API Endpoints:
 POST /api/auth/register
 
 Database Tables: User
+
+1.2 User Login and Authentication
+Functionality: Secure user authentication system
+Features:
+
+Email and password login
+OAuth 2.0 integration (Google, Facebook)
+JWT token-based session management
+Token refresh mechanism
+Password reset functionality
+Multi-factor authentication (optional)
+
+API Endpoints:
+
+POST /api/auth/login
+POST /api/auth/oauth/google
+POST /api/auth/oauth/facebook
+POST /api/auth/refresh-token
+POST /api/auth/forgot-password
+POST /api/auth/reset-password
+
+Database Tables: User, Session (optional)
