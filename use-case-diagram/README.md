@@ -14,3 +14,16 @@ Make payments
 Write reviews and ratings
 Send/receive messages
 View notifications
+
+2. Host 
+Description: Property owners who list their properties for rent
+Primary Use Cases:
+
+Register and login to the platform
+Create, edit, and delete property listings
+Upload property images
+Confirm or reject booking requests
+Receive payouts
+Respond to reviews
+Communicate with guests
+View booking history and notifications
