@@ -9,7 +9,9 @@ So that I can access the platform and its features
 Acceptance Criteria:
 
 User can sign up with email, password, first name, and last name
+
 Email must be unique and validated
+
 Password must meet security requirements (min 8 characters)
 User receives email verification
 User can choose role (guest/host) during registration
