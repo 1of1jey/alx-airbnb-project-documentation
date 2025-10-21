@@ -27,3 +27,14 @@ Receive payouts
 Respond to reviews
 Communicate with guests
 View booking history and notifications
+
+3. Admin 
+Description: System administrators who manage the platform
+Primary Use Cases:
+
+Manage user accounts (suspend/activate)
+Manage property listings (approve/remove)
+Oversee all bookings and payments
+View system reports and statistics
+Resolve disputes
+Monitor platform activity
