@@ -6,9 +6,9 @@ Actors
 Description: Users who search for and book properties
 Primary Use Cases:
 
-Register and login to the platform
-Search and filter properties
-View property details and locations
+#Register and login to the platform
+#Search and filter properties
+#View property details and locations
 Create and manage bookings
 Make payments
 Write reviews and ratings
