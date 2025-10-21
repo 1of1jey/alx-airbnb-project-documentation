@@ -38,3 +38,11 @@ Oversee all bookings and payments
 View system reports and statistics
 Resolve disputes
 Monitor platform activity
+
+4. Payment Gateway 
+Description: External payment processing system
+Interactions:
+
+Process payments from guests
+Handle refunds
+Facilitate payouts to hosts
