@@ -16,18 +16,6 @@ Complete collection of 23 user stories covering:
 - **Communication** (2 stories): Messaging, notifications
 - **Administration** (3 stories): User, property, and system management
 
-## User Story Format
-
-Each story follows the standard template:
-```
-As a [role]
-I want to [action]
-So that [benefit]
-
-Acceptance Criteria:
-- Specific, measurable conditions for completion
-```
-
 ## Key Features Covered
 
 ✅ User authentication and profile management  
